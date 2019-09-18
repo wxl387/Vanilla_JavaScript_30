@@ -14,3 +14,9 @@
 * degree conversion
 * setInterval(function, timeout) to animate
 
+## Day 3-CSS Controller @*Sept 17 2019*
+* :root -- root element of the document
+* in CSS, var(--some-name); then can be used as --some-name: some_value;
+* .forEach();
+* addEventListener('event',some_function)
+* add suffix e.g 'px' to a value and used in CSS property: documentElement.style.setProperty('target_property', add_some_value);
